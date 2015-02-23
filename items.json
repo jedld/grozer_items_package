@@ -1,0 +1,1978 @@
+{
+  "91cc0cd9-9b26-4b33-a3f4-de87a65c26d1": {
+    "universal_id": "91cc0cd9-9b26-4b33-a3f4-de87a65c26d1",
+    "name": "anchovies",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "b6d2c051-2c7e-44e1-987e-147d9e5639da": {
+    "universal_id": "b6d2c051-2c7e-44e1-987e-147d9e5639da",
+    "name": "apple",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/b6d2c051-2c7e-44e1-987e-147d9e5639da.jpg"
+  },
+  "b036853f-f070-408c-970f-00a233efbfc0": {
+    "universal_id": "b036853f-f070-408c-970f-00a233efbfc0",
+    "name": "apple cider vinegar",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "a72fe94e-59f7-4701-a25f-222949822b5b": {
+    "universal_id": "a72fe94e-59f7-4701-a25f-222949822b5b",
+    "name": "apple sauce",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "2532de89-20bf-48bc-b728-f158db6e6f97": {
+    "universal_id": "2532de89-20bf-48bc-b728-f158db6e6f97",
+    "name": "arugula",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "42b65636-aacb-11e4-89d3-123b93f75cba": {
+    "universal_id": "42b65636-aacb-11e4-89d3-123b93f75cba",
+    "name": "asparagus",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/42b65636-aacb-11e4-89d3-123b93f75cba.jpg"
+  },
+  "c0887142-41ab-4cf2-966c-a306516c67ae": {
+    "universal_id": "c0887142-41ab-4cf2-966c-a306516c67ae",
+    "name": "avocado",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/c0887142-41ab-4cf2-966c-a306516c67ae.jpg"
+  },
+  "42b6544c-aacb-11e4-89d3-123b93f75cba": {
+    "universal_id": "42b6544c-aacb-11e4-89d3-123b93f75cba",
+    "name": "bacon",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/42b6544c-aacb-11e4-89d3-123b93f75cba.jpg"
+  },
+  "44b46320-a236-47f6-89ef-a1b23f9ae200": {
+    "universal_id": "44b46320-a236-47f6-89ef-a1b23f9ae200",
+    "name": "baking powder",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/44b46320-a236-47f6-89ef-a1b23f9ae200.jpg"
+  },
+  "a9eb8d18-433c-4e72-ae30-2c71d7b7ccd0": {
+    "universal_id": "a9eb8d18-433c-4e72-ae30-2c71d7b7ccd0",
+    "name": "baking soda",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a9eb8d18-433c-4e72-ae30-2c71d7b7ccd0.jpg"
+  },
+  "0c9c03ef-e366-4eb9-bbc3-c1c9bab3db37": {
+    "universal_id": "0c9c03ef-e366-4eb9-bbc3-c1c9bab3db37",
+    "name": "balsamic vinegar",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "4b0edd39-6aaa-4b3d-b21f-c3a5dc288cca": {
+    "universal_id": "4b0edd39-6aaa-4b3d-b21f-c3a5dc288cca",
+    "name": "bamboo shoots",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "5a783d17-34b7-40e8-9bd4-f6fe6745b32f": {
+    "universal_id": "5a783d17-34b7-40e8-9bd4-f6fe6745b32f",
+    "name": "banana",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/5a783d17-34b7-40e8-9bd4-f6fe6745b32f.jpg"
+  },
+  "02c1fe30-06b2-4c1f-81e8-42a95371c570": {
+    "universal_id": "02c1fe30-06b2-4c1f-81e8-42a95371c570",
+    "name": "banana ketchup",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "aa783a97-a2c9-4ae8-9afb-a872712f293f": {
+    "universal_id": "aa783a97-a2c9-4ae8-9afb-a872712f293f",
+    "name": "basil",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/aa783a97-a2c9-4ae8-9afb-a872712f293f.jpg"
+  },
+  "5c3d1074-fbc8-4c1d-a876-d27d4bde8a8b": {
+    "universal_id": "5c3d1074-fbc8-4c1d-a876-d27d4bde8a8b",
+    "name": "bay leaf",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [
+      "laurel"
+    ],
+    "image_url": "images\/5c3d1074-fbc8-4c1d-a876-d27d4bde8a8b.jpg"
+  },
+  "4870c439-49e4-4913-b3ed-a2811f9de3de": {
+    "universal_id": "4870c439-49e4-4913-b3ed-a2811f9de3de",
+    "name": "bean sprouts",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/4870c439-49e4-4913-b3ed-a2811f9de3de.jpg"
+  },
+  "f21dee3a-35e5-4df6-84bc-a2179c39816c": {
+    "universal_id": "f21dee3a-35e5-4df6-84bc-a2179c39816c",
+    "name": "beans",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/f21dee3a-35e5-4df6-84bc-a2179c39816c.jpg"
+  },
+  "91511171-b809-4882-b8cf-8aea4649913d": {
+    "universal_id": "91511171-b809-4882-b8cf-8aea4649913d",
+    "name": "beef",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/91511171-b809-4882-b8cf-8aea4649913d.jpg"
+  },
+  "c84d2cde-56d8-4944-8bca-0d892cda2bd5": {
+    "universal_id": "c84d2cde-56d8-4944-8bca-0d892cda2bd5",
+    "name": "beef stock",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "8949a985-9178-4b64-a18d-093d51646744": {
+    "universal_id": "8949a985-9178-4b64-a18d-093d51646744",
+    "name": "beef tenderloin",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "f2276d7f-8146-4d9f-9c10-08bb8af14efe": {
+    "universal_id": "f2276d7f-8146-4d9f-9c10-08bb8af14efe",
+    "name": "beer",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "b0c5fd5f-e876-42ef-8878-c70f98e55ee4": {
+    "universal_id": "b0c5fd5f-e876-42ef-8878-c70f98e55ee4",
+    "name": "beetroot",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/b0c5fd5f-e876-42ef-8878-c70f98e55ee4.jpg"
+  },
+  "13755dec-2b78-4789-af26-dcfebf5b6e02": {
+    "universal_id": "13755dec-2b78-4789-af26-dcfebf5b6e02",
+    "name": "black pepper",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/13755dec-2b78-4789-af26-dcfebf5b6e02.jpg"
+  },
+  "6283f76f-7e6d-49ff-8b14-926e4c6abf68": {
+    "universal_id": "6283f76f-7e6d-49ff-8b14-926e4c6abf68",
+    "name": "blackberry",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/6283f76f-7e6d-49ff-8b14-926e4c6abf68.jpg"
+  },
+  "8ce6575c-ba23-4fbe-8e45-b9d88562e7c4": {
+    "universal_id": "8ce6575c-ba23-4fbe-8e45-b9d88562e7c4",
+    "name": "blue cheese",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": true,
+    "other_names": [],
+    "image_url": "images\/8ce6575c-ba23-4fbe-8e45-b9d88562e7c4.jpg"
+  },
+  "8c420ba1-153b-4ee0-bf4a-b9d19e2f5888": {
+    "universal_id": "8c420ba1-153b-4ee0-bf4a-b9d19e2f5888",
+    "name": "blueberry",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/8c420ba1-153b-4ee0-bf4a-b9d19e2f5888.jpg"
+  },
+  "5ea48c32-94ee-441b-ab8c-33af58243fec": {
+    "universal_id": "5ea48c32-94ee-441b-ab8c-33af58243fec",
+    "name": "bok choy",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "b4950afe-5925-4988-89c0-ec48e9352564": {
+    "universal_id": "b4950afe-5925-4988-89c0-ec48e9352564",
+    "name": "bread crumbs",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "2b1c3f00-a511-11e4-89d3-123b93f75cba": {
+    "universal_id": "2b1c3f00-a511-11e4-89d3-123b93f75cba",
+    "name": "broccoli",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/2b1c3f00-a511-11e4-89d3-123b93f75cba.jpg"
+  },
+  "cc6d7476-2b65-4992-ab43-9f8695526bc6": {
+    "universal_id": "cc6d7476-2b65-4992-ab43-9f8695526bc6",
+    "name": "brown rice",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/cc6d7476-2b65-4992-ab43-9f8695526bc6.jpg"
+  },
+  "88cc8b65-5578-49b9-9e63-995e65ddfb46": {
+    "universal_id": "88cc8b65-5578-49b9-9e63-995e65ddfb46",
+    "name": "brown sugar",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": true,
+    "other_names": [],
+    "image_url": "images\/88cc8b65-5578-49b9-9e63-995e65ddfb46.jpg"
+  },
+  "6a4dac5f-ed99-4716-b8ab-8d49f00a80ed": {
+    "universal_id": "6a4dac5f-ed99-4716-b8ab-8d49f00a80ed",
+    "name": "brussels sprouts",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/6a4dac5f-ed99-4716-b8ab-8d49f00a80ed.jpg"
+  },
+  "102ebec7-3c5c-4eb6-8e31-7535d29e4095": {
+    "universal_id": "102ebec7-3c5c-4eb6-8e31-7535d29e4095",
+    "name": "burger buns",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "082dffbb-2b4b-4f80-ac74-3bb81ed841fe": {
+    "universal_id": "082dffbb-2b4b-4f80-ac74-3bb81ed841fe",
+    "name": "butter",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "c3978ef8-36e5-4894-89ca-f85c6ae0edfc": {
+    "universal_id": "c3978ef8-36e5-4894-89ca-f85c6ae0edfc",
+    "name": "buttermilk",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "a97b28df-032f-46b3-9bfb-ee6a56fada73": {
+    "universal_id": "a97b28df-032f-46b3-9bfb-ee6a56fada73",
+    "name": "cabbage",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a97b28df-032f-46b3-9bfb-ee6a56fada73.jpg"
+  },
+  "99e1ae4c-6870-46c4-a81c-1c715df8b4ae": {
+    "universal_id": "99e1ae4c-6870-46c4-a81c-1c715df8b4ae",
+    "name": "cane vinegar",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "e25bd7d0-00ce-4139-8958-914deb53a69a": {
+    "universal_id": "e25bd7d0-00ce-4139-8958-914deb53a69a",
+    "name": "canola oil",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "41017e92-ebd0-4756-8fef-4f9e3deabca2": {
+    "universal_id": "41017e92-ebd0-4756-8fef-4f9e3deabca2",
+    "name": "capers",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "5c4e1de2-535e-41b7-9503-e9cd535e8f9a": {
+    "universal_id": "5c4e1de2-535e-41b7-9503-e9cd535e8f9a",
+    "name": "cardamom",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/5c4e1de2-535e-41b7-9503-e9cd535e8f9a.jpg"
+  },
+  "9d2050f7-ddbc-40bf-9886-4f9eb24d4c53": {
+    "universal_id": "9d2050f7-ddbc-40bf-9886-4f9eb24d4c53",
+    "name": "carrot",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/9d2050f7-ddbc-40bf-9886-4f9eb24d4c53.jpg"
+  },
+  "7cb704bd-8832-4702-972c-951cf79c0200": {
+    "universal_id": "7cb704bd-8832-4702-972c-951cf79c0200",
+    "name": "cauliflower",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/7cb704bd-8832-4702-972c-951cf79c0200.jpg"
+  },
+  "a83d650e-5d22-423b-bcfa-296ecc7480df": {
+    "universal_id": "a83d650e-5d22-423b-bcfa-296ecc7480df",
+    "name": "cayenne pepper",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a83d650e-5d22-423b-bcfa-296ecc7480df.jpg"
+  },
+  "07d31fee-566d-4027-84cc-522ead7679b1": {
+    "universal_id": "07d31fee-566d-4027-84cc-522ead7679b1",
+    "name": "celery",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/07d31fee-566d-4027-84cc-522ead7679b1.jpg"
+  },
+  "503fd5e2-f6d9-45ce-b622-f1c28794bf65": {
+    "universal_id": "503fd5e2-f6d9-45ce-b622-f1c28794bf65",
+    "name": "cheddar cheese",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/503fd5e2-f6d9-45ce-b622-f1c28794bf65.jpg"
+  },
+  "bd666785-ab77-4659-96f1-b949f5480cbd": {
+    "universal_id": "bd666785-ab77-4659-96f1-b949f5480cbd",
+    "name": "cheese",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/bd666785-ab77-4659-96f1-b949f5480cbd.jpg"
+  },
+  "eae9e6a9-e742-48f7-943e-493c7726e229": {
+    "universal_id": "eae9e6a9-e742-48f7-943e-493c7726e229",
+    "name": "chicken (whole)",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/eae9e6a9-e742-48f7-943e-493c7726e229.jpg"
+  },
+  "fba09d1e-88be-4cee-9e9e-6cc967b94b37": {
+    "universal_id": "fba09d1e-88be-4cee-9e9e-6cc967b94b37",
+    "name": "chicken breast",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/fba09d1e-88be-4cee-9e9e-6cc967b94b37.jpg"
+  },
+  "21cc7fc9-7636-4815-9369-bf81586c9817": {
+    "universal_id": "21cc7fc9-7636-4815-9369-bf81586c9817",
+    "name": "chicken broth",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "e0f401ce-f5a8-4b97-82f9-6f72b2fc09d0": {
+    "universal_id": "e0f401ce-f5a8-4b97-82f9-6f72b2fc09d0",
+    "name": "chicken drumsticks",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "c40954bf-b0b1-4a7a-abb2-b999d6c03adc": {
+    "universal_id": "c40954bf-b0b1-4a7a-abb2-b999d6c03adc",
+    "name": "chicken stock",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "c181e04d-699d-49de-b22c-142131eb6fce": {
+    "universal_id": "c181e04d-699d-49de-b22c-142131eb6fce",
+    "name": "chicken thigh",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "cce3a975-84c0-44b9-a594-dc64efb59090": {
+    "universal_id": "cce3a975-84c0-44b9-a594-dc64efb59090",
+    "name": "chickpeas",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [
+      "garbanzos"
+    ],
+    "image_url": "images\/cce3a975-84c0-44b9-a594-dc64efb59090.jpg"
+  },
+  "c518a113-563c-4fdf-ae53-629caff2a46f": {
+    "universal_id": "c518a113-563c-4fdf-ae53-629caff2a46f",
+    "name": "chili garlic sauce",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "00a43f0a-6112-44e4-8d82-bfc20955c8b9": {
+    "universal_id": "00a43f0a-6112-44e4-8d82-bfc20955c8b9",
+    "name": "chilli",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/00a43f0a-6112-44e4-8d82-bfc20955c8b9.jpg"
+  },
+  "116b79e7-d7d7-4e7c-b373-62a012219a32": {
+    "universal_id": "116b79e7-d7d7-4e7c-b373-62a012219a32",
+    "name": "chilli sauce",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "e180fba7-e1cd-40f9-a27b-505b8a400b95": {
+    "universal_id": "e180fba7-e1cd-40f9-a27b-505b8a400b95",
+    "name": "chinese five spice",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "90f9f098-6a78-4f43-9a42-384a70b3681c": {
+    "universal_id": "90f9f098-6a78-4f43-9a42-384a70b3681c",
+    "name": "chives",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/90f9f098-6a78-4f43-9a42-384a70b3681c.jpg"
+  },
+  "6c1f97ff-57d2-4767-933b-a269f076461c": {
+    "universal_id": "6c1f97ff-57d2-4767-933b-a269f076461c",
+    "name": "cilantro",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/6c1f97ff-57d2-4767-933b-a269f076461c.jpg"
+  },
+  "b92a39f1-ca26-42d0-aa24-2e82bf709e0a": {
+    "universal_id": "b92a39f1-ca26-42d0-aa24-2e82bf709e0a",
+    "name": "cinnamon",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/b92a39f1-ca26-42d0-aa24-2e82bf709e0a.jpg"
+  },
+  "1e322307-2095-4a46-beef-d9d3ceaecb20": {
+    "universal_id": "1e322307-2095-4a46-beef-d9d3ceaecb20",
+    "name": "cloves",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/1e322307-2095-4a46-beef-d9d3ceaecb20.jpg"
+  },
+  "d83d076f-7dc9-4951-ad61-5b4bc3408598": {
+    "universal_id": "d83d076f-7dc9-4951-ad61-5b4bc3408598",
+    "name": "coconut milk",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "257cc09f-1d43-4804-bb41-9edf4431f926": {
+    "universal_id": "257cc09f-1d43-4804-bb41-9edf4431f926",
+    "name": "coconut oil",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "61227dd7-fe40-4eba-a0fd-8c0a840be162": {
+    "universal_id": "61227dd7-fe40-4eba-a0fd-8c0a840be162",
+    "name": "cooked ham",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "4252793c-15c3-4f38-a705-69d799625e3d": {
+    "universal_id": "4252793c-15c3-4f38-a705-69d799625e3d",
+    "name": "cooking oil",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/4252793c-15c3-4f38-a705-69d799625e3d.jpg"
+  },
+  "80657791-8c2b-4872-b5eb-2935abdf05f7": {
+    "universal_id": "80657791-8c2b-4872-b5eb-2935abdf05f7",
+    "name": "coriander",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/80657791-8c2b-4872-b5eb-2935abdf05f7.jpg"
+  },
+  "bc713903-87b5-4a36-abbf-b19e5372ed83": {
+    "universal_id": "bc713903-87b5-4a36-abbf-b19e5372ed83",
+    "name": "corn",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/bc713903-87b5-4a36-abbf-b19e5372ed83.jpg"
+  },
+  "ffc190e1-e7a8-4d2f-a7b6-3c56cbb87905": {
+    "universal_id": "ffc190e1-e7a8-4d2f-a7b6-3c56cbb87905",
+    "name": "cornstarch",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "6e305a7d-fe47-4079-b92e-49ec8f772071": {
+    "universal_id": "6e305a7d-fe47-4079-b92e-49ec8f772071",
+    "name": "cream dory",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "aafe1879-c2a8-4cdb-b48b-bf011a69a54b": {
+    "universal_id": "aafe1879-c2a8-4cdb-b48b-bf011a69a54b",
+    "name": "cream of tartar",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "60062c2f-54a5-4788-8069-151855c7167a": {
+    "universal_id": "60062c2f-54a5-4788-8069-151855c7167a",
+    "name": "cucumber",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/60062c2f-54a5-4788-8069-151855c7167a.jpg"
+  },
+  "90049dc8-4c7e-443c-93b2-e0f168e33d15": {
+    "universal_id": "90049dc8-4c7e-443c-93b2-e0f168e33d15",
+    "name": "cumin",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "85acec8f-2a6f-4e76-b271-1386498db77f": {
+    "universal_id": "85acec8f-2a6f-4e76-b271-1386498db77f",
+    "name": "curry powder",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "c1748b1f-fc99-4133-a95f-4506812b146a": {
+    "universal_id": "c1748b1f-fc99-4133-a95f-4506812b146a",
+    "name": "dijon mustard",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/c1748b1f-fc99-4133-a95f-4506812b146a.jpg"
+  },
+  "e302fd76-58f8-4d3e-b3c5-396ffa0361ef": {
+    "universal_id": "e302fd76-58f8-4d3e-b3c5-396ffa0361ef",
+    "name": "dried thyme",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "6d35463e-38f6-41f3-b052-b54c784dd050": {
+    "universal_id": "6d35463e-38f6-41f3-b052-b54c784dd050",
+    "name": "edamame",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "04549007-8ee6-41d8-b0c3-23f75907ce3e": {
+    "universal_id": "04549007-8ee6-41d8-b0c3-23f75907ce3e",
+    "name": "egg (chicken)",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/04549007-8ee6-41d8-b0c3-23f75907ce3e.jpg"
+  },
+  "6e07408a-b5d9-4b8e-a275-45d71c0eadf3": {
+    "universal_id": "6e07408a-b5d9-4b8e-a275-45d71c0eadf3",
+    "name": "eggplant",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/6e07408a-b5d9-4b8e-a275-45d71c0eadf3.jpg"
+  },
+  "99a0c196-4c18-4274-9d2f-e9933eea6584": {
+    "universal_id": "99a0c196-4c18-4274-9d2f-e9933eea6584",
+    "name": "extra-virgin olive oil",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "b1d5edec-c339-463c-9f00-01a8857f8f19": {
+    "universal_id": "b1d5edec-c339-463c-9f00-01a8857f8f19",
+    "name": "fennel",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/b1d5edec-c339-463c-9f00-01a8857f8f19.jpg"
+  },
+  "32518465-9282-44ca-8baf-a7fc04886101": {
+    "universal_id": "32518465-9282-44ca-8baf-a7fc04886101",
+    "name": "fenugreek leaves",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "b7403899-f5d2-4d2a-87b6-ad4b3b9f9854": {
+    "universal_id": "b7403899-f5d2-4d2a-87b6-ad4b3b9f9854",
+    "name": "fish",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/b7403899-f5d2-4d2a-87b6-ad4b3b9f9854.jpg"
+  },
+  "649e5774-88a1-4d32-8355-3ce5fbfc0116": {
+    "universal_id": "649e5774-88a1-4d32-8355-3ce5fbfc0116",
+    "name": "fish sauce",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "9aca14fd-6481-4f88-a53c-49c4fc839d39": {
+    "universal_id": "9aca14fd-6481-4f88-a53c-49c4fc839d39",
+    "name": "flaxseed oil",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "42b652ee-aacb-11e4-89d3-123b93f75cba": {
+    "universal_id": "42b652ee-aacb-11e4-89d3-123b93f75cba",
+    "name": "flour",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/42b652ee-aacb-11e4-89d3-123b93f75cba.jpg"
+  },
+  "2db28801-ba10-4809-b3c4-46480c924056": {
+    "universal_id": "2db28801-ba10-4809-b3c4-46480c924056",
+    "name": "garlic",
+    "is_long_shelf_life": false,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/2db28801-ba10-4809-b3c4-46480c924056.jpg"
+  },
+  "33f7cfd0-9b69-49d1-8d80-94a209274192": {
+    "universal_id": "33f7cfd0-9b69-49d1-8d80-94a209274192",
+    "name": "garlic powder",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "2b0b2381-de54-4471-b156-7da70968eb48": {
+    "universal_id": "2b0b2381-de54-4471-b156-7da70968eb48",
+    "name": "ginger",
+    "is_long_shelf_life": false,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/2b0b2381-de54-4471-b156-7da70968eb48.jpg"
+  },
+  "bfbfad96-2ab2-40b9-9cf7-c94b21832bca": {
+    "universal_id": "bfbfad96-2ab2-40b9-9cf7-c94b21832bca",
+    "name": "goat cheese",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/bfbfad96-2ab2-40b9-9cf7-c94b21832bca.jpg"
+  },
+  "e1d5e66e-456e-49fc-843e-9ee94c6a713c": {
+    "universal_id": "e1d5e66e-456e-49fc-843e-9ee94c6a713c",
+    "name": "grape seed oil",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "a40206a0-f3f9-49dc-942a-4e5a954f9903": {
+    "universal_id": "a40206a0-f3f9-49dc-942a-4e5a954f9903",
+    "name": "grapes",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a40206a0-f3f9-49dc-942a-4e5a954f9903.jpg"
+  },
+  "40618d60-c79b-4116-8f3b-01a43ef2e41c": {
+    "universal_id": "40618d60-c79b-4116-8f3b-01a43ef2e41c",
+    "name": "green bell pepper",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/40618d60-c79b-4116-8f3b-01a43ef2e41c.jpg"
+  },
+  "5c1c4826-364c-4c8d-85c9-3830b2583ac5": {
+    "universal_id": "5c1c4826-364c-4c8d-85c9-3830b2583ac5",
+    "name": "green peas",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/5c1c4826-364c-4c8d-85c9-3830b2583ac5.jpg"
+  },
+  "00fca485-6cfd-4762-91f1-aa5223da5201": {
+    "universal_id": "00fca485-6cfd-4762-91f1-aa5223da5201",
+    "name": "ground beef",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "a5c56c05-8ec2-4358-ac76-52026a486e51": {
+    "universal_id": "a5c56c05-8ec2-4358-ac76-52026a486e51",
+    "name": "hoisin sauce",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "4aa9c33c-cc56-40c6-bdbd-de9734473cb3": {
+    "universal_id": "4aa9c33c-cc56-40c6-bdbd-de9734473cb3",
+    "name": "honey",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/4aa9c33c-cc56-40c6-bdbd-de9734473cb3.jpg"
+  },
+  "ec8257a1-aa8d-456b-9182-99b85f0965e2": {
+    "universal_id": "ec8257a1-aa8d-456b-9182-99b85f0965e2",
+    "name": "ketjap manis",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "a5227a36-fdb1-4198-94a5-ab1fde4b07ba": {
+    "universal_id": "a5227a36-fdb1-4198-94a5-ab1fde4b07ba",
+    "name": "lamb",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "a188c7ce-6fa0-409e-aa72-d4beea2af49c": {
+    "universal_id": "a188c7ce-6fa0-409e-aa72-d4beea2af49c",
+    "name": "lemon",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a188c7ce-6fa0-409e-aa72-d4beea2af49c.jpg"
+  },
+  "8b92003e-ec38-46cd-a3bb-b291dc3bd71b": {
+    "universal_id": "8b92003e-ec38-46cd-a3bb-b291dc3bd71b",
+    "name": "lemon juice",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "338c648e-8920-450f-865e-72242a59dab4": {
+    "universal_id": "338c648e-8920-450f-865e-72242a59dab4",
+    "name": "lemongrass",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [
+      "lemongrass"
+    ]
+  },
+  "3d69fc94-bffd-4fa1-9d20-b2717265be40": {
+    "universal_id": "3d69fc94-bffd-4fa1-9d20-b2717265be40",
+    "name": "lentils",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/3d69fc94-bffd-4fa1-9d20-b2717265be40.jpg"
+  },
+  "28c97baf-5cfa-416b-a334-dd35564346d8": {
+    "universal_id": "28c97baf-5cfa-416b-a334-dd35564346d8",
+    "name": "lettuce",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/28c97baf-5cfa-416b-a334-dd35564346d8.jpg"
+  },
+  "9f7f766c-692c-4972-87f8-0bf825ca1274": {
+    "universal_id": "9f7f766c-692c-4972-87f8-0bf825ca1274",
+    "name": "light soy sauce",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "59626baf-4f4e-4008-b745-356b3c33c43a": {
+    "universal_id": "59626baf-4f4e-4008-b745-356b3c33c43a",
+    "name": "lime",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/59626baf-4f4e-4008-b745-356b3c33c43a.jpg"
+  },
+  "e7136b83-ab74-4927-9ca3-4b7e3a3f8ed6": {
+    "universal_id": "e7136b83-ab74-4927-9ca3-4b7e3a3f8ed6",
+    "name": "lime juice",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "c824c63b-fcc3-49f9-a9eb-899b893c519f": {
+    "universal_id": "c824c63b-fcc3-49f9-a9eb-899b893c519f",
+    "name": "liquid seasoning",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "d8735de3-8e6d-4966-82c7-126642ced74a": {
+    "universal_id": "d8735de3-8e6d-4966-82c7-126642ced74a",
+    "name": "mango",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/d8735de3-8e6d-4966-82c7-126642ced74a.jpg"
+  },
+  "e92d8a7d-7291-49ea-b2e5-9db60efd3970": {
+    "universal_id": "e92d8a7d-7291-49ea-b2e5-9db60efd3970",
+    "name": "maple syrup",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "9f26826e-583c-4509-82d4-cd22d0aee2c6": {
+    "universal_id": "9f26826e-583c-4509-82d4-cd22d0aee2c6",
+    "name": "marjoram",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/9f26826e-583c-4509-82d4-cd22d0aee2c6.jpg"
+  },
+  "2c43049c-7437-459d-9a9e-60b82408f7e0": {
+    "universal_id": "2c43049c-7437-459d-9a9e-60b82408f7e0",
+    "name": "marsala",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "16530cb6-3ab5-412b-9c97-ab9a82e857fc": {
+    "universal_id": "16530cb6-3ab5-412b-9c97-ab9a82e857fc",
+    "name": "mascarpone",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "e4916fd4-0f3f-41de-ad29-9cd5f624aff8": {
+    "universal_id": "e4916fd4-0f3f-41de-ad29-9cd5f624aff8",
+    "name": "mayonnaise",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 1,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "37b18aa0-6aa8-4248-b28d-a26706d9afad": {
+    "universal_id": "37b18aa0-6aa8-4248-b28d-a26706d9afad",
+    "name": "melon",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/37b18aa0-6aa8-4248-b28d-a26706d9afad.jpg"
+  },
+  "3eb6bde6-d7f4-47ed-8b5e-a4cbece7df8d": {
+    "universal_id": "3eb6bde6-d7f4-47ed-8b5e-a4cbece7df8d",
+    "name": "milk",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": true,
+    "other_names": [],
+    "image_url": "images\/3eb6bde6-d7f4-47ed-8b5e-a4cbece7df8d.jpg"
+  },
+  "fddb0dd4-8c11-46e2-a7ed-913f56fb0715": {
+    "universal_id": "fddb0dd4-8c11-46e2-a7ed-913f56fb0715",
+    "name": "milkfish",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [
+      "bangus"
+    ]
+  },
+  "1d347fed-e1dc-4bb9-9aed-df1df9bad30b": {
+    "universal_id": "1d347fed-e1dc-4bb9-9aed-df1df9bad30b",
+    "name": "mint",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/1d347fed-e1dc-4bb9-9aed-df1df9bad30b.jpg"
+  },
+  "a2b1e578-1cd0-4887-aefe-040f21f1702c": {
+    "universal_id": "a2b1e578-1cd0-4887-aefe-040f21f1702c",
+    "name": "miso",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "79e867ae-6423-459a-a4aa-3737a211ffbe": {
+    "universal_id": "79e867ae-6423-459a-a4aa-3737a211ffbe",
+    "name": "mustard",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "096c0bb5-6b2d-438c-acf6-9d72e865a719": {
+    "universal_id": "096c0bb5-6b2d-438c-acf6-9d72e865a719",
+    "name": "nutmeg",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/096c0bb5-6b2d-438c-acf6-9d72e865a719.jpg"
+  },
+  "43e94e23-fc4a-4e40-9988-1eedd741faf4": {
+    "universal_id": "43e94e23-fc4a-4e40-9988-1eedd741faf4",
+    "name": "oats",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "a0b369da-5632-4bdb-9045-e97671d17f1d": {
+    "universal_id": "a0b369da-5632-4bdb-9045-e97671d17f1d",
+    "name": "olive oil",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a0b369da-5632-4bdb-9045-e97671d17f1d.jpg"
+  },
+  "a1665bc7-2e8b-45fe-831f-f531f2addd96": {
+    "universal_id": "a1665bc7-2e8b-45fe-831f-f531f2addd96",
+    "name": "olives",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a1665bc7-2e8b-45fe-831f-f531f2addd96.jpg"
+  },
+  "8b0c4ec7-d04b-493a-8ff6-3ee223b66574": {
+    "universal_id": "8b0c4ec7-d04b-493a-8ff6-3ee223b66574",
+    "name": "onion",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/8b0c4ec7-d04b-493a-8ff6-3ee223b66574.jpg"
+  },
+  "6f3e2137-86cf-4004-aeaf-8096c89893b9": {
+    "universal_id": "6f3e2137-86cf-4004-aeaf-8096c89893b9",
+    "name": "onion leeks",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "9b2a79a3-971b-4bff-8283-9f9360fadf43": {
+    "universal_id": "9b2a79a3-971b-4bff-8283-9f9360fadf43",
+    "name": "onion powder",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "31e66ac0-b32a-40cc-97e8-ab59aa899a4b": {
+    "universal_id": "31e66ac0-b32a-40cc-97e8-ab59aa899a4b",
+    "name": "orange",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/31e66ac0-b32a-40cc-97e8-ab59aa899a4b.jpg"
+  },
+  "c461f0d3-f8b7-41bb-8c15-5fb77114743d": {
+    "universal_id": "c461f0d3-f8b7-41bb-8c15-5fb77114743d",
+    "name": "oregano",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/c461f0d3-f8b7-41bb-8c15-5fb77114743d.jpg"
+  },
+  "b13cc1e7-8681-49cd-9699-ee16f34d17e3": {
+    "universal_id": "b13cc1e7-8681-49cd-9699-ee16f34d17e3",
+    "name": "paprika",
+    "is_long_shelf_life": false,
+    "background_color": "#FF5722",
+    "foreground_color": "#FFFFFF",
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "ea23fe00-0234-48f5-9963-1c6213bce42f": {
+    "universal_id": "ea23fe00-0234-48f5-9963-1c6213bce42f",
+    "name": "parmesan cheese",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/ea23fe00-0234-48f5-9963-1c6213bce42f.jpg"
+  },
+  "63cfe93b-2d52-440d-8758-fdab39411175": {
+    "universal_id": "63cfe93b-2d52-440d-8758-fdab39411175",
+    "name": "parsley",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/63cfe93b-2d52-440d-8758-fdab39411175.jpg"
+  },
+  "19402763-3dca-410e-a199-bb094176d78c": {
+    "universal_id": "19402763-3dca-410e-a199-bb094176d78c",
+    "name": "parsnips",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/19402763-3dca-410e-a199-bb094176d78c.jpg"
+  },
+  "b2a2adc4-c9cf-4444-b139-7df10f3c26ed": {
+    "universal_id": "b2a2adc4-c9cf-4444-b139-7df10f3c26ed",
+    "name": "peach",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/b2a2adc4-c9cf-4444-b139-7df10f3c26ed.jpg"
+  },
+  "33d33189-8af3-4913-bd1b-9ae9468e79d8": {
+    "universal_id": "33d33189-8af3-4913-bd1b-9ae9468e79d8",
+    "name": "peanut butter",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/33d33189-8af3-4913-bd1b-9ae9468e79d8.jpg"
+  },
+  "2a332b77-a698-4dcf-8334-7f7f7a61e76e": {
+    "universal_id": "2a332b77-a698-4dcf-8334-7f7f7a61e76e",
+    "name": "peanut oil",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "9e7102e2-0e1e-4b70-a982-d5ecdec74331": {
+    "universal_id": "9e7102e2-0e1e-4b70-a982-d5ecdec74331",
+    "name": "peanuts",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/9e7102e2-0e1e-4b70-a982-d5ecdec74331.jpg"
+  },
+  "02ac6be2-f810-423d-bc24-d995cf5a7381": {
+    "universal_id": "02ac6be2-f810-423d-bc24-d995cf5a7381",
+    "name": "pear",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/02ac6be2-f810-423d-bc24-d995cf5a7381.jpg"
+  },
+  "e2904c46-45a7-4b94-8342-edb94ca99017": {
+    "universal_id": "e2904c46-45a7-4b94-8342-edb94ca99017",
+    "name": "pecans",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/e2904c46-45a7-4b94-8342-edb94ca99017.jpg"
+  },
+  "483f77a6-24b2-47cb-a164-54681ba20a7a": {
+    "universal_id": "483f77a6-24b2-47cb-a164-54681ba20a7a",
+    "name": "pepper flakes",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "1cc5b6b2-e199-4dd1-80d5-3b77b7d4f06a": {
+    "universal_id": "1cc5b6b2-e199-4dd1-80d5-3b77b7d4f06a",
+    "name": "pepper sauce",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [
+      "hot sauce"
+    ]
+  },
+  "6a93af4e-eba6-4927-91aa-09d7f8e0493b": {
+    "universal_id": "6a93af4e-eba6-4927-91aa-09d7f8e0493b",
+    "name": "pesto sauce",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "1a73783f-4f66-4630-a8cb-15946c987944": {
+    "universal_id": "1a73783f-4f66-4630-a8cb-15946c987944",
+    "name": "pineapple",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/1a73783f-4f66-4630-a8cb-15946c987944.jpg"
+  },
+  "a1c9fe4f-f299-4dc0-baa9-238a707f7365": {
+    "universal_id": "a1c9fe4f-f299-4dc0-baa9-238a707f7365",
+    "name": "pistachios",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a1c9fe4f-f299-4dc0-baa9-238a707f7365.jpg"
+  },
+  "0030e0dc-1590-4341-966d-7eac28ee3bbd": {
+    "universal_id": "0030e0dc-1590-4341-966d-7eac28ee3bbd",
+    "name": "plum",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/0030e0dc-1590-4341-966d-7eac28ee3bbd.jpg"
+  },
+  "43c4992a-9b2b-4bd7-86c8-ec172c064f09": {
+    "universal_id": "43c4992a-9b2b-4bd7-86c8-ec172c064f09",
+    "name": "pork",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/43c4992a-9b2b-4bd7-86c8-ec172c064f09.jpg"
+  },
+  "132a4448-8d93-4721-8052-364c3a47cf01": {
+    "universal_id": "132a4448-8d93-4721-8052-364c3a47cf01",
+    "name": "pork (chops)",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/132a4448-8d93-4721-8052-364c3a47cf01.jpg"
+  },
+  "44107fc0-98c8-42be-8400-f1ef3cbb67b6": {
+    "universal_id": "44107fc0-98c8-42be-8400-f1ef3cbb67b6",
+    "name": "potatoes",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/44107fc0-98c8-42be-8400-f1ef3cbb67b6.jpg"
+  },
+  "d526b388-ef41-40e0-babf-7a0f85a1be05": {
+    "universal_id": "d526b388-ef41-40e0-babf-7a0f85a1be05",
+    "name": "prawn",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/d526b388-ef41-40e0-babf-7a0f85a1be05.jpg"
+  },
+  "a3c7aacf-9c3a-412e-bcc7-94f7db11945b": {
+    "universal_id": "a3c7aacf-9c3a-412e-bcc7-94f7db11945b",
+    "name": "prune",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "8b455825-8110-437f-a002-9e4567cf7f70": {
+    "universal_id": "8b455825-8110-437f-a002-9e4567cf7f70",
+    "name": "radish",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/8b455825-8110-437f-a002-9e4567cf7f70.jpg"
+  },
+  "21fe7bbe-0167-476f-8a3a-60523084ab1d": {
+    "universal_id": "21fe7bbe-0167-476f-8a3a-60523084ab1d",
+    "name": "raisins",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/21fe7bbe-0167-476f-8a3a-60523084ab1d.jpg"
+  },
+  "af72ec80-ee6c-4020-a2f1-8b4e785d241f": {
+    "universal_id": "af72ec80-ee6c-4020-a2f1-8b4e785d241f",
+    "name": "raspberries",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "2c763f68-aa3b-45d2-b012-01bf29f07cd4": {
+    "universal_id": "2c763f68-aa3b-45d2-b012-01bf29f07cd4",
+    "name": "red bell pepper",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/2c763f68-aa3b-45d2-b012-01bf29f07cd4.jpg"
+  },
+  "15880de5-86da-4372-9ec7-872c25dcd973": {
+    "universal_id": "15880de5-86da-4372-9ec7-872c25dcd973",
+    "name": "red wine",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": true,
+    "other_names": [],
+    "image_url": "images\/15880de5-86da-4372-9ec7-872c25dcd973.jpg"
+  },
+  "10d8c5bc-c34d-4e5d-86d1-22d954a79be9": {
+    "universal_id": "10d8c5bc-c34d-4e5d-86d1-22d954a79be9",
+    "name": "refried beans",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "3ee723a5-e4d3-4b50-9a82-298f34635d6d": {
+    "universal_id": "3ee723a5-e4d3-4b50-9a82-298f34635d6d",
+    "name": "rice",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/3ee723a5-e4d3-4b50-9a82-298f34635d6d.jpg"
+  },
+  "84d90c76-9b02-4ec7-baac-819086b8c3ac": {
+    "universal_id": "84d90c76-9b02-4ec7-baac-819086b8c3ac",
+    "name": "rice noodles",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "2e7e16c0-194f-4467-8ef5-f047aec06f6f": {
+    "universal_id": "2e7e16c0-194f-4467-8ef5-f047aec06f6f",
+    "name": "rice vinegar",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "84b79cc8-2273-44a6-99af-7ec9d50c9e9f": {
+    "universal_id": "84b79cc8-2273-44a6-99af-7ec9d50c9e9f",
+    "name": "rice wine",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [
+      "mirin"
+    ]
+  },
+  "f5618f11-4ed3-4199-96cd-4c96035c8e46": {
+    "universal_id": "f5618f11-4ed3-4199-96cd-4c96035c8e46",
+    "name": "rosemary",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/f5618f11-4ed3-4199-96cd-4c96035c8e46.jpg"
+  },
+  "62e50e76-3b80-4551-9123-aa9bfc53135f": {
+    "universal_id": "62e50e76-3b80-4551-9123-aa9bfc53135f",
+    "name": "round scad",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [
+      "galunggong"
+    ]
+  },
+  "53442c45-4c81-4d7c-9b8a-04504acb2fb4": {
+    "universal_id": "53442c45-4c81-4d7c-9b8a-04504acb2fb4",
+    "name": "saffron",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/53442c45-4c81-4d7c-9b8a-04504acb2fb4.jpg"
+  },
+  "9ac6a8ba-ff7c-481d-81a5-c40686105bd4": {
+    "universal_id": "9ac6a8ba-ff7c-481d-81a5-c40686105bd4",
+    "name": "sage",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/9ac6a8ba-ff7c-481d-81a5-c40686105bd4.jpg"
+  },
+  "6d8e3ce5-9740-4474-a197-282c12acc77d": {
+    "universal_id": "6d8e3ce5-9740-4474-a197-282c12acc77d",
+    "name": "sake",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/6d8e3ce5-9740-4474-a197-282c12acc77d.jpg"
+  },
+  "a021e531-e7fb-4afe-b434-3b4fca0b8f60": {
+    "universal_id": "a021e531-e7fb-4afe-b434-3b4fca0b8f60",
+    "name": "salmon",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a021e531-e7fb-4afe-b434-3b4fca0b8f60.jpg"
+  },
+  "cc9b4cfd-69b0-4474-9133-1b0369082847": {
+    "universal_id": "cc9b4cfd-69b0-4474-9133-1b0369082847",
+    "name": "salsa",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/cc9b4cfd-69b0-4474-9133-1b0369082847.jpg"
+  },
+  "54012d7f-c11b-4759-8628-e6112033ea0b": {
+    "universal_id": "54012d7f-c11b-4759-8628-e6112033ea0b",
+    "name": "salt",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/54012d7f-c11b-4759-8628-e6112033ea0b.jpg"
+  },
+  "b70596ba-085b-4e86-a085-a95a07a8e0c0": {
+    "universal_id": "b70596ba-085b-4e86-a085-a95a07a8e0c0",
+    "name": "sambal oelek",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "131a564b-cd24-486a-ac1c-2ab3c9b4181d": {
+    "universal_id": "131a564b-cd24-486a-ac1c-2ab3c9b4181d",
+    "name": "sausage",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/131a564b-cd24-486a-ac1c-2ab3c9b4181d.jpg"
+  },
+  "6e58ecda-e224-40cd-b9dd-5eaaa89692ba": {
+    "universal_id": "6e58ecda-e224-40cd-b9dd-5eaaa89692ba",
+    "name": "scallions",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "e35194bd-297b-43d4-ad56-2a65169f8eaf": {
+    "universal_id": "e35194bd-297b-43d4-ad56-2a65169f8eaf",
+    "name": "sea bass",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "0c73612d-9323-4415-8614-7b5bd4abb215": {
+    "universal_id": "0c73612d-9323-4415-8614-7b5bd4abb215",
+    "name": "sesame oil",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/0c73612d-9323-4415-8614-7b5bd4abb215.jpg"
+  },
+  "40136601-db24-423c-9fff-9e6710d57e46": {
+    "universal_id": "40136601-db24-423c-9fff-9e6710d57e46",
+    "name": "shallot",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/40136601-db24-423c-9fff-9e6710d57e46.jpg"
+  },
+  "b08e267a-f6c9-42ef-ba28-927d00fc3167": {
+    "universal_id": "b08e267a-f6c9-42ef-ba28-927d00fc3167",
+    "name": "sherry",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "23056b37-ac1c-4f24-a9ce-805f5fb2a4ca": {
+    "universal_id": "23056b37-ac1c-4f24-a9ce-805f5fb2a4ca",
+    "name": "sherry vinegar",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "0748f8c5-2fb6-4f49-9485-480e1565d0ff": {
+    "universal_id": "0748f8c5-2fb6-4f49-9485-480e1565d0ff",
+    "name": "shiitake mushrooms",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/0748f8c5-2fb6-4f49-9485-480e1565d0ff.jpg"
+  },
+  "9f2548aa-8f4f-465b-bb7c-36feb6168cc0": {
+    "universal_id": "9f2548aa-8f4f-465b-bb7c-36feb6168cc0",
+    "name": "shrimp",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/9f2548aa-8f4f-465b-bb7c-36feb6168cc0.jpg"
+  },
+  "2328e327-e243-4509-be00-7e51b4d7b630": {
+    "universal_id": "2328e327-e243-4509-be00-7e51b4d7b630",
+    "name": "sirloin",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/2328e327-e243-4509-be00-7e51b4d7b630.jpg"
+  },
+  "ce7fa98e-680a-4889-ab25-fd3361530e4d": {
+    "universal_id": "ce7fa98e-680a-4889-ab25-fd3361530e4d",
+    "name": "sliced mushrooms",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/ce7fa98e-680a-4889-ab25-fd3361530e4d.jpg"
+  },
+  "629a542d-ace7-4161-b43d-c646e19e6b81": {
+    "universal_id": "629a542d-ace7-4161-b43d-c646e19e6b81",
+    "name": "sour cream",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "28af63ae-232a-4e83-bea1-98f03cffc272": {
+    "universal_id": "28af63ae-232a-4e83-bea1-98f03cffc272",
+    "name": "soy sauce",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/28af63ae-232a-4e83-bea1-98f03cffc272.jpg"
+  },
+  "ae9e76a8-ca8a-456f-90d6-30e9efeb076f": {
+    "universal_id": "ae9e76a8-ca8a-456f-90d6-30e9efeb076f",
+    "name": "spaghetti",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/ae9e76a8-ca8a-456f-90d6-30e9efeb076f.jpg"
+  },
+  "a215f69f-7750-47eb-9ffa-b3d684754359": {
+    "universal_id": "a215f69f-7750-47eb-9ffa-b3d684754359",
+    "name": "spanish paprika",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "4ae289aa-0844-495d-b854-cfd378f362cd": {
+    "universal_id": "4ae289aa-0844-495d-b854-cfd378f362cd",
+    "name": "spinach",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/4ae289aa-0844-495d-b854-cfd378f362cd.jpg"
+  },
+  "d08b0756-ba02-4780-bf3c-3fa119e241ab": {
+    "universal_id": "d08b0756-ba02-4780-bf3c-3fa119e241ab",
+    "name": "spring onions",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [
+      "leek"
+    ],
+    "image_url": "images\/d08b0756-ba02-4780-bf3c-3fa119e241ab.jpg"
+  },
+  "093000ff-b430-482f-ac31-f72e95a7786f": {
+    "universal_id": "093000ff-b430-482f-ac31-f72e95a7786f",
+    "name": "spring roll wrapper",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "7b813820-a0b8-43d3-9d6b-dfbd463113d6": {
+    "universal_id": "7b813820-a0b8-43d3-9d6b-dfbd463113d6",
+    "name": "squash",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/7b813820-a0b8-43d3-9d6b-dfbd463113d6.jpg"
+  },
+  "e4e603e8-3afa-48e6-9376-6bbe5ea0e22e": {
+    "universal_id": "e4e603e8-3afa-48e6-9376-6bbe5ea0e22e",
+    "name": "squid",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "b97fbb9c-8b59-4c90-b5a5-7d6f5b228831": {
+    "universal_id": "b97fbb9c-8b59-4c90-b5a5-7d6f5b228831",
+    "name": "sriracha hot sauce",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "27b6926d-3a8c-437a-b131-c6326b5f17b6": {
+    "universal_id": "27b6926d-3a8c-437a-b131-c6326b5f17b6",
+    "name": "star anise",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/27b6926d-3a8c-437a-b131-c6326b5f17b6.jpg"
+  },
+  "c5067e8c-e279-466b-9817-66b2f05d1ca1": {
+    "universal_id": "c5067e8c-e279-466b-9817-66b2f05d1ca1",
+    "name": "strawberry",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/c5067e8c-e279-466b-9817-66b2f05d1ca1.jpg"
+  },
+  "c5966328-cf78-48ef-ba7e-a91e8bda349c": {
+    "universal_id": "c5966328-cf78-48ef-ba7e-a91e8bda349c",
+    "name": "sugar",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/c5966328-cf78-48ef-ba7e-a91e8bda349c.jpg"
+  },
+  "056ab613-6308-406d-9551-68383cc97265": {
+    "universal_id": "056ab613-6308-406d-9551-68383cc97265",
+    "name": "sweet potato",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/056ab613-6308-406d-9551-68383cc97265.jpg"
+  },
+  "2bd02572-336b-430d-a016-462d34066b86": {
+    "universal_id": "2bd02572-336b-430d-a016-462d34066b86",
+    "name": "sweet soy sauce",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "e70f18c4-a31d-4672-b7a0-efd677f119ef": {
+    "universal_id": "e70f18c4-a31d-4672-b7a0-efd677f119ef",
+    "name": "tabasco sauce",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "9b1af3d3-3397-40d8-9c7b-726c00baf948": {
+    "universal_id": "9b1af3d3-3397-40d8-9c7b-726c00baf948",
+    "name": "taco seasoning mix",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "8bba33bd-0a59-4edb-a05f-5cd203980964": {
+    "universal_id": "8bba33bd-0a59-4edb-a05f-5cd203980964",
+    "name": "tahini",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "f371076c-ee3c-4ce0-9fbe-c05f5ba213c7": {
+    "universal_id": "f371076c-ee3c-4ce0-9fbe-c05f5ba213c7",
+    "name": "tamarind",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [
+      "sampaloc"
+    ]
+  },
+  "73ceab14-bfae-49b3-8f2c-a7782bf7cd76": {
+    "universal_id": "73ceab14-bfae-49b3-8f2c-a7782bf7cd76",
+    "name": "tamarind juice",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "a5fa3988-5d67-4d7e-b407-6967923ab176": {
+    "universal_id": "a5fa3988-5d67-4d7e-b407-6967923ab176",
+    "name": "tandoori paste",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "4f1ce91d-2e45-49fc-997a-8f117c8caf7f": {
+    "universal_id": "4f1ce91d-2e45-49fc-997a-8f117c8caf7f",
+    "name": "tarragon",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/4f1ce91d-2e45-49fc-997a-8f117c8caf7f.jpg"
+  },
+  "af160c19-9bdf-4331-9342-ca247fb36343": {
+    "universal_id": "af160c19-9bdf-4331-9342-ca247fb36343",
+    "name": "thyme",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/af160c19-9bdf-4331-9342-ca247fb36343.jpg"
+  },
+  "7cfb7e80-4f68-456b-aea8-2eb37e8ceeda": {
+    "universal_id": "7cfb7e80-4f68-456b-aea8-2eb37e8ceeda",
+    "name": "tilapia",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "14e2377f-b624-4797-80de-8554ecebc4b3": {
+    "universal_id": "14e2377f-b624-4797-80de-8554ecebc4b3",
+    "name": "tofu",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/14e2377f-b624-4797-80de-8554ecebc4b3.jpg"
+  },
+  "a8d57e8c-bc17-4d11-9956-36b549a7ab8d": {
+    "universal_id": "a8d57e8c-bc17-4d11-9956-36b549a7ab8d",
+    "name": "tomato",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/a8d57e8c-bc17-4d11-9956-36b549a7ab8d.jpg"
+  },
+  "fc4e4809-deab-4a13-add9-adb7ea0636e5": {
+    "universal_id": "fc4e4809-deab-4a13-add9-adb7ea0636e5",
+    "name": "tomato ketchup",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": []
+  },
+  "9e6779f4-8a72-4aee-bf74-225dba9825be": {
+    "universal_id": "9e6779f4-8a72-4aee-bf74-225dba9825be",
+    "name": "tomato sauce",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/9e6779f4-8a72-4aee-bf74-225dba9825be.jpg"
+  },
+  "11459b4d-3926-4bb4-a1ae-fe286d2f036e": {
+    "universal_id": "11459b4d-3926-4bb4-a1ae-fe286d2f036e",
+    "name": "tortillas",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/11459b4d-3926-4bb4-a1ae-fe286d2f036e.jpg"
+  },
+  "8006b4be-c8e4-4be1-9b7d-b97b8d389815": {
+    "universal_id": "8006b4be-c8e4-4be1-9b7d-b97b8d389815",
+    "name": "trassi oedang",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "39facbe3-8de0-4e9a-8e93-bc8edd19e97a": {
+    "universal_id": "39facbe3-8de0-4e9a-8e93-bc8edd19e97a",
+    "name": "turkey",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "1ed1e2b9-a205-436f-87d3-146bfe590524": {
+    "universal_id": "1ed1e2b9-a205-436f-87d3-146bfe590524",
+    "name": "turmeric",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "b593f9ff-b622-4afe-9bfd-95f704506454": {
+    "universal_id": "b593f9ff-b622-4afe-9bfd-95f704506454",
+    "name": "vegetable broth",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "065f70fa-c5aa-4d04-a950-29aae07073cd": {
+    "universal_id": "065f70fa-c5aa-4d04-a950-29aae07073cd",
+    "name": "vegetable oil",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "02684453-6b50-4ea9-af38-0e8b06432a3c": {
+    "universal_id": "02684453-6b50-4ea9-af38-0e8b06432a3c",
+    "name": "vermouth",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "6c0546be-4d3b-4733-a949-4cd2bb63910d": {
+    "universal_id": "6c0546be-4d3b-4733-a949-4cd2bb63910d",
+    "name": "vinegar",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": []
+  },
+  "302ff6ad-b58b-4cd8-b106-2fe1146cfde6": {
+    "universal_id": "302ff6ad-b58b-4cd8-b106-2fe1146cfde6",
+    "name": "vodka",
+    "is_long_shelf_life": true,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/302ff6ad-b58b-4cd8-b106-2fe1146cfde6.jpg"
+  },
+  "1a703707-9a48-464e-a727-4c579d9fa7f0": {
+    "universal_id": "1a703707-9a48-464e-a727-4c579d9fa7f0",
+    "name": "water",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/1a703707-9a48-464e-a727-4c579d9fa7f0.jpg"
+  },
+  "74c871df-a7e5-42ec-b282-7c73d8f61fd8": {
+    "universal_id": "74c871df-a7e5-42ec-b282-7c73d8f61fd8",
+    "name": "whipping cream",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "0615797e-8454-4302-ac25-f97efb04d76e": {
+    "universal_id": "0615797e-8454-4302-ac25-f97efb04d76e",
+    "name": "white pepper",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "cfa73ec0-9d83-400f-91e4-1b4cc391f921": {
+    "universal_id": "cfa73ec0-9d83-400f-91e4-1b4cc391f921",
+    "name": "white wine",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/cfa73ec0-9d83-400f-91e4-1b4cc391f921.jpg"
+  },
+  "a4835355-79ca-469f-a59b-fe5216048663": {
+    "universal_id": "a4835355-79ca-469f-a59b-fe5216048663",
+    "name": "wine",
+    "is_long_shelf_life": true,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "0f112807-0c7b-438f-a474-90307230311d": {
+    "universal_id": "0f112807-0c7b-438f-a474-90307230311d",
+    "name": "worcestershire sauce",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": []
+  },
+  "42b64fa6-aacb-11e4-89d3-123b93f75cba": {
+    "universal_id": "42b64fa6-aacb-11e4-89d3-123b93f75cba",
+    "name": "yogurt",
+    "is_long_shelf_life": false,
+    "default_shelf_life": 0,
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/42b64fa6-aacb-11e4-89d3-123b93f75cba.jpg"
+  },
+  "d2835672-cfd2-4a0d-b920-e36e4aaddc04": {
+    "universal_id": "d2835672-cfd2-4a0d-b920-e36e4aaddc04",
+    "name": "zucchini",
+    "is_long_shelf_life": false,
+    "image_attribution": "",
+    "light_icons": false,
+    "other_names": [],
+    "image_url": "images\/d2835672-cfd2-4a0d-b920-e36e4aaddc04.jpg"
+  }
+}

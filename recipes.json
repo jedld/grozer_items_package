@@ -1,0 +1,65 @@
+[
+  {
+    "universal_id": "a0a1c683-b8e2-46da-aeed-260daf109f08",
+    "generic_item_id": "",
+    "name": "bacon wrapped asparagus",
+    "description": "A quick easy to prepare bundle of bacon and asparagus",
+    "serving_size": 5,
+    "prep_time": 30,
+    "tags": [],
+    "ingredients": [
+      {
+        "generic_item_id": "42b6544c-aacb-11e4-89d3-123b93f75cba",
+        "label": "bacon",
+        "qty_description": "4 slices",
+        "type": 1
+      },
+      {
+        "generic_item_id": "13755dec-2b78-4789-af26-dcfebf5b6e02",
+        "label": "black pepper",
+        "qty_description": "a few grinds",
+        "type": 2
+      },
+      {
+        "generic_item_id": "42b65636-aacb-11e4-89d3-123b93f75cba",
+        "label": "asparagus",
+        "qty_description": "1 1\/2 pounds",
+        "type": 1
+      },
+      {
+        "generic_item_id": "99a0c196-4c18-4274-9d2f-e9933eea6584",
+        "label": "extra-virgin olive oil",
+        "qty_description": "",
+        "type": 2
+      }
+    ],
+    "cover_url": "images\/a0a1c683-b8e2-46da-aeed-260daf109f08.jpg",
+    "pages": [
+      {
+        "universalId": "6b2fff43-245d-4ab4-aa3e-7cffe8f780ca",
+        "content": "Place the asparagus spears in a container and drizzle with extra-virgin olive oil",
+        "displayOrder": 0
+      },
+      {
+        "universalId": "463b07d6-8fa3-48e3-b1c1-b71fbe44a56c",
+        "content": "Season the asparagus with black pepper. Let them stay for a few minutes",
+        "displayOrder": 1
+      },
+      {
+          "universalId": "e96fb614-bb0d-11e4-8dfc-aa07a5b093db",
+          "content": "wrapped a bacon strip around a bundle of 3 spears of asparagus. You may use tootpicks to fasten the bacon if needed. Repeat until all the asparagus or bacon strips are used up.",
+          "displayOrder": 2
+      },
+      {
+          "universalId": "e96fb998-bb0d-11e4-8dfc-aa07a5b093db",
+          "content": "Place the bacon-wrapped asparagus spears on the grill. Grill until the bacon is crispy and to your liking",
+          "displayOrder": 3
+      },
+      {
+          "universalId": "e96fbc2c-bb0d-11e4-8dfc-aa07a5b093db",
+          "content": "Place on a paper towel and serve",
+          "displayOrder": 4
+      }
+    ]
+  }
+]
