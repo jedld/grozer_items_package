@@ -16,3 +16,21 @@ How to package
 you may also click on it and Grozer will automatically read the package.
 
 4. Select Import and wait for your items to be copied to your database.
+ 
+Creating a package from your phone
+==================================
+
+Yes, you can export your item definitions and recipes on your phone and give it to someone else. You can also
+edit those items to your liking as above.
+
+1. On the dashboard, click on the settings icon on the action bar.
+2. Click on "Backup"
+3. Select backup item information and barcodes only. (It also includes your recipes)
+4. Click on "Start Backup"
+5. It will output a .gzu file to the location of your choosing
+6. It is acutally a zip file, so just rename the extansion to .zip and open it with your favorite unzipper. It should show a structure similar to this package. Edit the .json files to your liking.
+7. rename and zip it as described in the previous section.
+8. Share it.
+
+
+
